@@ -1,0 +1,36 @@
+.page {
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'Roboto';
+  font-weight: normal;
+}
+
+@media screen and (max-width: 1920px) {
+  .page {
+    margin: 0 160px;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .page {
+    margin: 0 120px;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .page {
+    margin: 0 107px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .page {
+    margin: 0 40px;
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .page {
+    margin: 0 24px;
+  }
+}

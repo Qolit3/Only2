@@ -1,0 +1,27 @@
+.text-blocks {
+  margin: 80px 0 80px;
+}
+
+@media screen and (max-width: 1440px) {
+  .text-blocks {
+    margin-top: 60px;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .text-blocks {
+    margin-top: 56px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .text-blocks {
+    margin-top: 50px;
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .text-blocks {
+    margin-top: 40px;
+  }
+}

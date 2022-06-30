@@ -1,0 +1,11 @@
+.text-blocks__title_active {
+  color: #02818a;
+}
+
+.text-blocks__title_active::before {
+  transform: rotate(135deg);
+}
+
+.text-blocks__title_active::after {
+  transform: rotate(45deg);
+}
